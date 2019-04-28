@@ -1,0 +1,75 @@
+﻿<Window x:Class="NewEra.DepoSimulasyon.MyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NewEra.DepoSimulasyon"
+        xmlns:dxca="http://schemas.devexpress.com/winfx/2008/xaml/carousel"
+        mc:Ignorable="d"
+        
+        Title="MyWindow" Height="450" Width="800">
+    <Grid x:Name="grid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1* "></RowDefinition>
+        </Grid.RowDefinitions>
+        <dxca:CarouselItemsControl Grid.Row="0" Grid.Column="0" Background="DarkGray"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  x:Name="MyCarousel"   >
+            <ItemsControl.ItemsPanel >
+                <ItemsPanelTemplate >
+                    
+                    <dxca:CarouselPanel 
+                            Margin="0,-50,0,0" 
+                            ActivateItemOnClick="True"
+                            RenderOptions.BitmapScalingMode="HighQuality"
+                            x:Name="carousel"
+                            AnimationTime="400"
+                            PathPadding="10, 20, 10, 20"
+                            ClipToBounds="True"
+                            IsInvertedDirection="True"
+                            PathVisible="False"
+                            ItemSize="200,150"
+                            MinHeight="35"
+                            MinWidth="50"
+                            
+                            IsAutoSizeItem="True"
+                            VisibleItemCount="9" 
+                            AttractorPointIndex="4">
+                       
+                        <dxca:CarouselPanel.ItemMovingPath >
+                            <PathGeometry Figures="M300.0925,100 C400.0925,0.5 600.5,60.794373 600.5,110.5 C600.5,160.20563 400.0925,200.5 300,200.5 C200.9075,200.5 0.5,160.20563 0.5,110.5 C0.5,60.794373 200.9075,0.5 300,100"/>
+                            
+                        </dxca:CarouselPanel.ItemMovingPath>
+                    </dxca:CarouselPanel>
+                  
+                </ItemsPanelTemplate>
+                
+            </ItemsControl.ItemsPanel>
+            
+            <ItemsControl.ItemTemplate  >
+                
+                <DataTemplate >
+                    
+                        <Grid  >
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="1*"></RowDefinition>
+                                <RowDefinition Height="1*"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                               
+                                <ColumnDefinition Width="1*" ></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                        <Image  x:Name="CarouselImage" Source="{Binding ImgPath}" Stretch="Fill"  VerticalAlignment="Stretch" HorizontalAlignment="Stretch"
+                               Grid.Column="0" Grid.Row="0"/>
+                        <Button   x:Name="CarouselBtn" Content="{Binding DepoName}" Background="AliceBlue" Grid.Column="0"  Grid.Row="1"  />
+                        </Grid>
+                  
+                   
+                    
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </dxca:CarouselItemsControl>
+    </Grid>
+</Window>

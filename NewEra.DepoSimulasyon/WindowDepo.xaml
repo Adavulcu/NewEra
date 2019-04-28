@@ -1,0 +1,43 @@
+﻿<Window x:Class="NewEra.DepoSimulasyon.WindowDepo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NewEra.DepoSimulasyon"
+        mc:Ignorable="d"
+        Title="WindowDepo" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="auto"></RowDefinition>
+            <RowDefinition Height="4*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10*"></ColumnDefinition>
+           
+        </Grid.ColumnDefinitions>
+        <GroupBox Grid.Row="1" Grid.Column="0" Width="auto" Height="auto">
+            <ScrollViewer VerticalAlignment="Stretch" HorizontalAlignment="Left" HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+                <Grid >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto"></RowDefinition>
+                        <RowDefinition Height="auto"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="10*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <GroupBox  Grid.Row="0" Grid.Column="0" Width="auto" Height="auto" >
+                            <Grid Name="GridOran" VerticalAlignment="Center" HorizontalAlignment="Left"  Width="auto" Height="auto"></Grid>
+                    </GroupBox>
+
+                    <GroupBox Grid.Row="1" Grid.Column="0" Name="GrBoxHucre"  Width="auto" Height="auto" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" >
+                            <Grid Name="GridHucre" VerticalAlignment="Stretch" HorizontalAlignment="Left"  Width="auto" Height="auto"></Grid>
+                    </GroupBox>
+                </Grid>
+            </ScrollViewer>
+        </GroupBox>
+        
+
+
+    </Grid>
+</Window>

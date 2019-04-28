@@ -1,0 +1,155 @@
+﻿<Window x:Class="NewEraDepoTemplateCreater.WindowTemplate"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NewEraDepoTemplateCreater"
+       
+        mc:Ignorable="d"
+        WindowState="Maximized"
+        Title="WindowTemplate" Height="auto" Width="auto"
+        KeyDown="Window_KeyDown" KeyUp="Window_KeyUp"
+        >
+    
+    <Window.Resources>
+
+        <ContextMenu x:Key="cmFile" >
+            <MenuItem Header="RAF BAĞLA" >
+              
+            </MenuItem>
+            <MenuItem Header="KAYDET" >
+              
+            </MenuItem>
+            <Separator/>
+        </ContextMenu>
+
+    </Window.Resources>
+    <Grid x:Name="GridMain" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Background="LightBlue">
+        
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <Grid Background="#ffcc80" Grid.Column="0" Grid.Row="0" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="70"></ColumnDefinition>
+                <ColumnDefinition Width="6*"></ColumnDefinition>
+                <ColumnDefinition Width="20*"></ColumnDefinition>
+                <ColumnDefinition Width="5*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="BtnFile" Background="Silver" VerticalAlignment="Top"  HorizontalAlignment="Stretch"  Height="50"  Content="DOSYA" Grid.Column="0" Grid.Row="0" Click="BtnFile_Click" > </Button>
+            
+            <Grid Margin="10,2,5,2" Grid.Column="1" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"></RowDefinition>
+                    <RowDefinition Height="1*"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"></ColumnDefinition>
+                    <ColumnDefinition Width="2*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label Content="EN - BOY (X - Y) = " Grid.Column="0" Grid.Row="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Label>
+                <Label x:Name="LblXY" Content="30 - 15" Grid.Column="1" Grid.Row="0" VerticalAlignment="Stretch" HorizontalAlignment="Stretch"></Label>
+                <Button x:Name="BtnGridOlusturDegistir" Click="BtnGridOlusturDegistir_Click" Content="OLUŞTUR / DEĞİŞTİR" VerticalAlignment="Center" Height="25" HorizontalAlignment="Stretch"  Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="1"></Button>
+            </Grid>
+            <GroupBox Margin="5,2,5,2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Column="2" Grid.Row="0">
+                <Grid   VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"></RowDefinition>
+                        <RowDefinition Height="1*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                        <ColumnDefinition Width="1*"></ColumnDefinition>
+                        <ColumnDefinition Width="2*"></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+
+
+                    <Label x:Name="LblRenkDuvar" MouseLeftButtonDown="LblRenk_MouseLeftButtonDown" Background="Black" Grid.Column="0" Grid.Row="1" VerticalAlignment="Stretch" Width="50" HorizontalAlignment="Left"></Label>
+                    <Label x:Name="LblRenkAlan" MouseLeftButtonDown="LblRenk_MouseLeftButtonDown" Background="DarkGray" Grid.Column="1" Grid.Row="1" VerticalAlignment="Stretch" Width="50" HorizontalAlignment="Left"></Label>
+                    <Label x:Name="LblRenkTunel" MouseLeftButtonDown="LblRenk_MouseLeftButtonDown" Background="Blue" Grid.Column="2" Grid.Row="1" VerticalAlignment="Stretch" Width="50"  HorizontalAlignment="Left"></Label>
+                    <Label x:Name="LblRenkRaf" MouseLeftButtonDown="LblRenk_MouseLeftButtonDown" Background="MediumPurple" Grid.Column="3" Grid.Row="1" VerticalAlignment="Stretch" Width="50" HorizontalAlignment="Left"></Label>
+                    <Label x:Name="LblRenkDefault" MouseLeftButtonDown="LblRenk_MouseLeftButtonDown"  Background="#00ff00" Grid.Column="4" Grid.Row="1" VerticalAlignment="Stretch" Width="50" HorizontalAlignment="Left"></Label>
+                    <Label x:Name="LblRenkSil" MouseLeftButtonDown="LblRenk_MouseLeftButtonDown"  Background="WhiteSmoke" Grid.Column="5" Grid.Row="1" VerticalAlignment="Stretch" Width="50" HorizontalAlignment="Left"></Label>
+                    
+                    <RadioButton x:Name="RbtnDuvar" Checked="Rbtn_Checked" Content="DUVAR" Grid.Column="0" Grid.Row="0" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"></RadioButton>
+                    <RadioButton x:Name="RbtnAlan" Checked="Rbtn_Checked" Content="ALAN" Grid.Column="1" Grid.Row="0"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center"></RadioButton>
+                    <RadioButton x:Name="RbtnTunel" Checked="Rbtn_Checked" Content="TÜNEL" Grid.Column="2" Grid.Row="0"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center"></RadioButton>
+                    <RadioButton x:Name="RbtnRaf" Checked="Rbtn_Checked" Content="RAF" Grid.Column="3" Grid.Row="0"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center"></RadioButton>
+                    <RadioButton x:Name="RbtnDefault" Checked="Rbtn_Checked" Content="DEFAULT" IsChecked="True"  Grid.Column="4" Grid.Row="0"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center"></RadioButton>
+                    <RadioButton x:Name="RbtnSil" Checked="Rbtn_Checked" Content="Sil"   Grid.Column="5" Grid.Row="0"  HorizontalContentAlignment="Left" VerticalContentAlignment="Center"></RadioButton>
+
+                    <ComboBox x:Name="CbRaf" Grid.Column="6" Grid.Row="0" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                              FontSize="20" FontWeight="Bold" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"
+                              SelectionChanged="CbRaf_SelectionChanged">
+                       
+                    </ComboBox>
+
+                    <Grid Grid.Column="6" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+                            <ColumnDefinition Width="1*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="BtnRafEkle" Click="BtnRafEkleSil_Click" Content="EKLE" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="0" Grid.Column="0" Margin="3,3,3,1.5"></Button>
+                        <Button x:Name="BtnRafSil" Click="BtnRafEkleSil_Click" Content="DEĞİŞTİR" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Row="0" Grid.Column="1"  Margin="3,3,1.5,3"></Button>
+                    </Grid>
+                
+
+                    
+                    
+                </Grid>
+            </GroupBox>
+
+            <Grid VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Grid.Column="3" Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                    <ColumnDefinition Width="1*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Label Content="ÖLÇEK " VerticalAlignment="Center" Height="30" HorizontalAlignment="Stretch" Grid.Column="0" Grid.Row="0"></Label>
+                <ComboBox Grid.Column="1" Grid.Row="0" VerticalAlignment="Center" Height="30" HorizontalAlignment="Stretch"
+                          SelectedIndex="5">
+                    <ComboBoxItem x:Name="cbItem200" Content="% 200" Tag="200"></ComboBoxItem>
+                    <ComboBoxItem x:Name="cbItem180" Content="% 180" Tag="180"></ComboBoxItem>
+                    <ComboBoxItem x:Name="cbItem160" Content="% 160" Tag="160"></ComboBoxItem>
+                    <ComboBoxItem x:Name="cbItem140" Content="% 140" Tag="140" ></ComboBoxItem>
+                    <ComboBoxItem x:Name="cbItem120" Content="% 120" Tag="120"></ComboBoxItem>
+                    <ComboBoxItem x:Name="cbItem100" Content="% 100" Tag="100"></ComboBoxItem>
+                    <ComboBoxItem x:Name="cbItem80" Content="% 80" Tag="80"></ComboBoxItem>
+                    <ComboBoxItem x:Name="cbItem60" Content="% 60" Tag="60"></ComboBoxItem>
+                    <ComboBoxItem x:Name="cbItem40" Content="% 40" Tag="40"> </ComboBoxItem>
+                    <ComboBoxItem x:Name="cbItem20" Content="% 20" Tag="20"></ComboBoxItem>
+                </ComboBox>
+            </Grid>
+            
+        </Grid>
+
+        <GroupBox Grid.Column="0" Grid.Row="1" Width="auto" Height="auto"  >
+            <ScrollViewer x:Name="SW" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20,20,20,20"
+                      HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto"  >
+
+            </ScrollViewer>
+        </GroupBox>
+
+        <Popup x:Name="MyPopUp" Width="130" Height="100" VerticalAlignment="Center" HorizontalAlignment="Center"
+               IsOpen="False" Placement="MousePoint"  StaysOpen="False" >
+            <StackPanel Background="Silver">
+                <Label x:Name="PopLblRafAd" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Stretch" FontSize="15" HorizontalAlignment="Stretch" 
+                     BorderThickness="1" BorderBrush="Black"  ></Label>
+                <Label x:Name="PopLblRafSiraAdet" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Stretch" FontSize="15" HorizontalAlignment="Stretch" 
+                     BorderThickness="1" BorderBrush="Black"  ></Label>
+
+            </StackPanel>
+        </Popup>
+
+    </Grid>
+</Window>

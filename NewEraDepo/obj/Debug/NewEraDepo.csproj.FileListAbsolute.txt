@@ -1,0 +1,475 @@
+F:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Dialogs.FormLogin.resources
+F:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormAracKabul.resources
+F:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormMain.resources
+F:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Properties.Resources.resources
+F:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.csproj.GenerateResource.cache
+F:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.exe.licenses
+F:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.csproj.CoreCompileInputs.cache
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEraDepo.exe.config
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEraDepo.exe
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEraDepo.pdb
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Data.v17.2.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Utils.v17.2.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraBars.v17.2.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEra.Extensions.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEra.Extensions.pdb
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Data.v17.2.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Utils.v17.2.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraBars.v17.2.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.csprojAssemblyReference.cache
+F:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.csproj.CopyComplete
+F:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.exe
+F:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.pdb
+F:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormAracYukIndirmeEmriOlusturma.resources
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.CodeParser.v17.2.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.DataAccess.v17.2.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Xpo.v17.2.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Office.v17.2.Core.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Images.v17.2.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.DataAccess.v17.2.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Xpo.v17.2.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Office.v17.2.Core.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEraDepo.exe.config
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEraDepo.exe
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEraDepo.pdb
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEra.Extensions.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEra.Extensions.pdb
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.csprojAssemblyReference.cache
+C:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Dialogs.FormLogin.resources
+C:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormAracKabul.resources
+C:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormAracYukIndirmeEmriOlusturma.resources
+C:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormMain.resources
+C:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Properties.Resources.resources
+C:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.csproj.GenerateResource.cache
+C:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.exe.licenses
+C:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.csproj.CoreCompileInputs.cache
+C:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.csproj.CopyComplete
+C:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.exe
+C:\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.pdb
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEraDepo.exe.config
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEraDepo.exe
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEraDepo.pdb
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Dashboard.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Dashboard.v17.2.Win.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Map.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.TreeMap.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraGauges.v17.2.Presets.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraGauges.v17.2.Win.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraMap.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraReports.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraRichEdit.v17.2.Extensions.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraTreeMap.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEra.DepoSimulasyon.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEra.Extensions.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Xpf.Carousel.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Xpf.Core.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Mvvm.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEra.DepoSimulasyon.pdb
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEra.Extensions.pdb
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Dashboard.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Dashboard.v17.2.Win.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Map.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.TreeMap.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraGauges.v17.2.Presets.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraGauges.v17.2.Win.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraMap.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraReports.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraRichEdit.v17.2.Extensions.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraTreeMap.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Xpf.Carousel.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Xpf.Core.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\DevExpress.Mvvm.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\de\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\es\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ja\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\ru\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.csprojAssemblyReference.cache
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Ayarlar.FormAdresEkle.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Ayarlar.Ekleme.FormDepoKapiEkle.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Ayarlar.Ekleme.FormDepoXEkle.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Ayarlar.Ekleme.FormSirketEkle.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Ayarlar.FormModulRol.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Ayarlar.Guncelleme.FormAdresGuncelle.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Ayarlar.Guncelleme.FormDepoGuncelle.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Ayarlar.Guncelleme.FormDepoKapiGuncelle.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Ayarlar.Listeleme.FormDepoKapiListele.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormDepoListele.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Ayarlar.Listeleme.FormSirketListele.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormStokUrunListele.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Dialogs.FormLogin.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormAracKabul.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormAracYukIndirmeEmriOlusturma.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormDepoEkle.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormGuncelleme.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormKullaniciEkle.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormKullaniciListele.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormMain.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormModules.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.FormStokUrunYerlestir.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.Properties.Resources.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.csproj.GenerateResource.cache
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.exe.licenses
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.csproj.CoreCompileInputs.cache
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.csproj.CopyComplete
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.exe
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\obj\Debug\NewEraDepo.pdb
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEraDepoTemplateCreater.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\NewEraDepoTemplateCreater.pdb
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEraDepo\bin\Debug\Xceed.Wpf.Toolkit.dll

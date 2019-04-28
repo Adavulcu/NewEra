@@ -1,0 +1,202 @@
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEra.FirstTimeRun.exe.config
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEra.FirstTimeRun.exe
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEra.FirstTimeRun.pdb
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEraDepo.exe
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Utils.v17.2.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Data.v17.2.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEraDepo.pdb
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEraDepo.exe.config
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Utils.v17.2.xml
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Data.v17.2.xml
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.csprojAssemblyReference.cache
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.Form1.resources
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.Properties.Resources.resources
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.csproj.GenerateResource.cache
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.csproj.CoreCompileInputs.cache
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.csproj.CopyComplete
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.exe
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.pdb
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEra.Extensions.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEra.Extensions.pdb
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraBars.v17.2.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Office.v17.2.Core.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Images.v17.2.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraBars.v17.2.xml
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Office.v17.2.Core.xml
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+F:\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEra.FirstTimeRun.exe.config
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEra.FirstTimeRun.exe
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEra.FirstTimeRun.pdb
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEraDepo.exe
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEra.DepoSimulasyon.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEra.Extensions.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Xpf.Carousel.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Xpf.Core.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Mvvm.v17.2.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEraDepo.pdb
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEraDepo.exe.config
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEra.DepoSimulasyon.pdb
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\NewEra.Extensions.pdb
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Xpf.Carousel.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Xpf.Core.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\DevExpress.Mvvm.v17.2.xml
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.Xpf.Core.v17.2.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.csprojAssemblyReference.cache
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.Form1.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.Properties.Resources.resources
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.csproj.GenerateResource.cache
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.csproj.CoreCompileInputs.cache
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.csproj.CopyComplete
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.exe
+C:\Users\apo\Documents\Visual Studio 2017\Projects\Desktop Project\NewEra\NewEra.FirstTimeRun\obj\Debug\NewEra.FirstTimeRun.pdb
